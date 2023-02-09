@@ -3,8 +3,6 @@
 <br>
 
 <p align="center">
-    <Strong>👉Portfolio List👈</Strong><br>
-    <a href="https://livegamer.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <br><br>
 <Strong>📥Email📤</Strong><br>gwooden22@gmail.com<br>
 
