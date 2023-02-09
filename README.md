@@ -3,8 +3,7 @@
 <br>
 
 <p align="center">
-<br><br>
-<Strong>📥Email📤</Strong><br>gwooden22@gmail.com<br>
+
 
 </p>
 
