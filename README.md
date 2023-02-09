@@ -4,7 +4,7 @@
 <p align="center">
 Hello My name is Kang Jun Seok🙌🙌🙌
 <br>
-[https://user-images.githubusercontent.com/119859793/217824351-958ed3ab-d1ed-418c-a464-115ef8397990.gif](https://user-images.githubusercontent.com/119859793/217824351-958ed3ab-d1ed-418c-a464-115ef8397990.gif)
+![KakaoTalk_20230207_171907807](https://user-images.githubusercontent.com/119859793/217824728-55c0031d-6086-4b35-9e05-76da6eb13994.gif)
 </p>
 
 <br>
