@@ -11,7 +11,7 @@
 
 <p align="center">
 hello my name is Kang JunSeokkkkk🙌🙌<br>
-.<br>
+<br>
 </p>
 
 <br>
