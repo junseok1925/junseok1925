@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/gwooden96/ImageAdd/blob/main/gwoonde22_github.jpg?raw=true" height="100%" width="100%"></p>
+
 
 <br>
 
