@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-Hello My name is Kang Jun Seok🙌🙌🙌
+Hello🙌🙌🙌
 <br>
 
 </p>
