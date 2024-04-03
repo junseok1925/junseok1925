@@ -6,17 +6,8 @@
 
 
 <p align="center">
-Hello🙌🙌🙌
+<h2>RPA, BackEnd, Frontend Developer</h2>
 <br>
 
- velog :https://velog.io/@rkdwnstjr16
- <br>
- Tstory : https://rkdwnstjr16.tistory.com/
- <br>
- Notion : https://junseoktil.notion.site/1fc1f4ce20ba47bdb69cacd1ba649644?v=4c93e29f8f2d42dabc673c5408cc8099
-  
-</p>
-
-<br>
 
 
